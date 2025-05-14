@@ -1,4 +1,4 @@
-# Windows no Kafka Streams: Para que servem e um exemplo real com Java/Spring Boot
+# Windows no Kafka Streams
 
 Os Windows no Kafka Streams permitem dividir um fluxo contínuo de dados em intervalos de tempo 
 (como "últimos 5 minutos") para agregar, analisar ou processar dados em blocos temporais. 
